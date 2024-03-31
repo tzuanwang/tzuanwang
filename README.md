@@ -1,6 +1,13 @@
-## Hi there 👋 I'm Wayne
+### Hi there 👋 I'm Wayne
 
-### I'm a Software Engineer, Data Enthusiast, Traveller, and a Musician!!
+## I'm a Software Engineer, Data Enthusiast, Traveller, and a Musician!
+
+* 🎓 CS @ NYU Courant (Class of 2025)
+* ⚡️ Specialize in full-stack software development and data analytics
+* 🌱 Contribute more to Open Source projects
+* 🎸 Music lover and a bass player
+
+### Technology Stack
 
 
 

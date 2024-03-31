@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋 I'm Wayne
+
+### I'm a Software Engineer, Data Enthusiast, Traveller, and a Musician!!
+
+
 
 <!--
 **tzuanwang/tzuanwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

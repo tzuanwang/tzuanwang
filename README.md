@@ -4,7 +4,7 @@
 
 * 🎓 CS @ NYU Courant (Class of 2025)
 * ⚡️ Specialize in full-stack software development and data analytics
-* 🌱 Contribute more to Open Source projects
+* 🌱 Goal: Contribute more to Open Source projects!
 * 🎸 Music lover and a bass player
 
 ### Languages & Tools
